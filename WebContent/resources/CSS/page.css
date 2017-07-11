@@ -1,0 +1,43 @@
+.center {
+	margin: auto;
+	width: 40%;
+}
+
+input[type=text],
+input[type=text]:hover,
+input[type=text]:focus,
+input[type=text]:active,
+textarea
+{
+	border: 0;
+	outline: none;
+	outline-offset: 0;
+}
+
+.nonResize{
+	resize: none;
+}
+
+.messageBox{
+	width: 80%;
+}
+
+.hrLine{
+	height: 1px;
+}
+
+.sideSection
+{
+	color: red;
+}
+
+.BNFButton{
+  	border: 0;
+	  outline: none;
+	  outline-offset: 0;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    height: 30px;
+    width: 60px;
+}
